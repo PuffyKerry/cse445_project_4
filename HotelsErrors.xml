@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Hotel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="Hotels.xsd">
+    
+    <!--Sample hotel from Figure 1-->
+    <Hotel Rating="4.2">
+        <Name>Westin</Name>
+        <Phone>800-937-8461</Phone>
+        <Phone>480-968-8885</Phone>
+        <Address>
+            <Number>11</Number>
+            <Street>E. 7th St</Street>
+            <City>Tempe</City>
+            <State>AZ</State>
+            <Zip>85281</Zip>
+        </Address>
+    </Hotel>
+
+    <!--10 real hotels-->
+    <Hotel Rating="4.3">
+        <Name>Hilton Chicago</Name>
+        <Address>
+            <Number>720</Number>
+            <Street>S. Michigan Ave</Street>
+            <City>Chicago</City>
+            <State>IL</State>
+            <Zip>60605</Zip>
+        </Address>
+    </Hotel>
+
+    <Hotel Rating="4.4">
+        <Name>Marriott Marquis</Name>
+        <Phone>212-398-1900</Phone>
+        <Phone>800-843-4898</Phone>
+        <Address>
+            <Number>1535</Number>
+            <Street>Broadway</Street>
+            <City>New York</City>
+            <State>NY</State>
+            <Zip>10036</Zip>
+    </Hotel>
+
+    <Hotel>
+        <Name>Four Seasons Hotel Los Angeles at Beverly Hills</Name>
+        <Name>Four Seasons Hotel at Beverly Hills</Name>
+        <Phone>310-273-2222</Phone>
+        <Address>
+            <Number>300</Number>
+            <Street>S. Doheny Dr</Street>
+            <City>Los Angeles</City>
+            <State>CA</State>
+            <Zip>90048</Zip>
+        </Address>
+    </Hotel>
+
+    <Hotel Rating="4.5">
+        <Name>Omni Dallas Hotel</Name>
+        <Phone>214-744-6664</Phone>
+        <Address>
+            <Number>555</Number>
+            <Street>S. Lamar St</Street>
+            <City>Dallas</City>
+            <State>TX</State>
+            <Zip>75202</Zip>
+        </Address>
+    </Hotel>
+
+    <Hotel>
+        <Name>Hilton San Francisco Union Square</Name>
+        <Phone>415-771-1400</Phone>
+        <Address>
+            <Number>333</Number>
+            <Street>O'Farrell St</Street>
+            <City>San Francisco</City>
+            <State>CA</State>
+            <Zip>94102</Zip>
+        </Address>
+    </Hotel>
+
+    <Hotel Rating="4.5">
+        <Name>Omni Tempe Hotel at ASU</Name>
+        <Phone>602-794-8600</Phone>
+        <Phone>888-444-6664</Phone>
+        <Address>
+            <Number>7</Number>
+            <Street>E. University Dr</Street>
+            <City>Tempe</City>
+            <State>AZ</State>
+            <Zip>85281</Zip>
+        </Address>
+    </Hotel>
+
+    <Hotel Rating="4.4">
+        <Name>University Inn Tempe/ASU</Name>
+        <Phone>480-966-7221</Phone>
+        <Address>
+            <Number>902</Number>
+            <Street>S. Mill Ave</Street>
+            <City>Tempe</City>
+            <State>AZ</State>
+            <Zip>85281</Zip>
+        </Address>
+    </Hotel>
+
+    <Hotel>
+        <Name>Hyatt Place Tempe / Phoenix / University</Name>
+        <Phone>480-207-1578</Phone>
+        <Address>
+            <Number>601</Number>
+            <Street>E. 6th St</Street>
+            <City>Tempe</City>
+            <State>AZ</State>
+            <Zip>85281</Zip>
+        </Address>
+    </Hotel>
+
+    <Hotel Rating="4.3">
+        <Name>Canopy by Hilton Tempe Downtown</Name>
+        <Phone>480-968-6800</Phone>
+        <Address>
+            <Number>108</Number>
+            <Street>E. University Dr</Street>
+            <City>Tempe</City>
+            <State>AZ</State>
+            <Zip>85281</Zip>
+        </Address>
+    </Hotel>
+    <Hotel>
+      <Name>Residence Inn Tempe Downtown/University</Name>
+      <Phone>480-967-2300</Phone>
+      <Address>
+          <Number>510</Number>
+          <Street>S. Forest Ave</Street>
+          <City>Tempe</City>
+          <State>AZ</State>
+          <Zip>85281</Zip>
+      </Address>
+    </Hotel>
+
+</Hotel>

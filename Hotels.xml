@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="Hotels.xsl"?>
 <Hotels xmlns ="https://PuffyKerry.github.io/cse445_project_4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://PuffyKerry.github.io/cse445_project_4/Hotels.xsd">
     
     <Hotel NearstAirport="Sky Harbor" Rating="4.2">

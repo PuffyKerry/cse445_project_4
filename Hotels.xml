@@ -3,7 +3,7 @@
         xsi:schemaLocation="Hotels.xsd">
     
     <!--Sample hotel from Figure 1-->
-    <Hotel NearestAirport="Sky Harbor" Rating="4.2">
+    <Hotel NearstAirport="Sky Harbor" Rating="4.2">
         <Name>Westin</Name>
         <Phone>800-937-8461</Phone>
         <Phone>480-968-8885</Phone>
@@ -17,7 +17,7 @@
     </Hotel>
 
     <!--10 real hotels-->
-    <Hotel NearestAirport="O'Hare International Airport" Rating="4.3">
+    <Hotel NearstAirport="O'Hare International Airport" Rating="4.3">
         <Name>Hilton Chicago</Name>
         <Phone>312-922-4400</Phone>
         <Address>
@@ -29,7 +29,7 @@
         </Address>
     </Hotel>
 
-    <Hotel NearestAirport="John F. Kennedy International Airport" Rating="4.4">
+    <Hotel NearstAirport="John F. Kennedy International Airport" Rating="4.4">
         <Name>Marriott Marquis</Name>
         <Phone>212-398-1900</Phone>
         <Phone>800-843-4898</Phone>
@@ -42,7 +42,7 @@
         </Address>
     </Hotel>
 
-    <Hotel NearestAirport="Los Angeles International Airport">
+    <Hotel NearstAirport="Los Angeles International Airport">
         <Name>Four Seasons Hotel Los Angeles at Beverly Hills</Name>
         <Phone>310-273-2222</Phone>
         <Address>
@@ -54,7 +54,7 @@
         </Address>
     </Hotel>
 
-    <Hotel NearestAirport="Dallas Fort Worth International Airport" Rating="4.5">
+    <Hotel NearstAirport="Dallas Fort Worth International Airport" Rating="4.5">
         <Name>Omni Dallas Hotel</Name>
         <Phone>214-744-6664</Phone>
         <Address>
@@ -66,7 +66,7 @@
         </Address>
     </Hotel>
 
-    <Hotel NearestAirport="San Francisco International Airport">
+    <Hotel NearstAirport="San Francisco International Airport">
         <Name>Hilton San Francisco Union Square</Name>
         <Phone>415-771-1400</Phone>
         <Address>
@@ -78,7 +78,7 @@
         </Address>
     </Hotel>
 
-    <Hotel NearestAirport="Sky Harbor" Rating="4.5">
+    <Hotel NearstAirport="Sky Harbor" Rating="4.5">
         <Name>Omni Tempe Hotel at ASU</Name>
         <Phone>602-794-8600</Phone>
         <Phone>888-444-6664</Phone>
@@ -91,7 +91,7 @@
         </Address>
     </Hotel>
 
-    <Hotel NearestAirport="Sky Harbor" Rating="4.4">
+    <Hotel NearstAirport="Sky Harbor" Rating="4.4">
         <Name>University Inn Tempe/ASU</Name>
         <Phone>480-966-7221</Phone>
         <Address>
@@ -103,7 +103,7 @@
         </Address>
     </Hotel>
 
-    <Hotel NearestAirport="Sky Harbor">
+    <Hotel NearstAirport="Sky Harbor">
         <Name>Hyatt Place Tempe / Phoenix / University</Name>
         <Phone>480-207-1578</Phone>
         <Address>
@@ -115,7 +115,7 @@
         </Address>
     </Hotel>
 
-    <Hotel NearestAirport="Sky Harbor" Rating="4.3">
+    <Hotel NearstAirport="Sky Harbor" Rating="4.3">
         <Name>Canopy by Hilton Tempe Downtown</Name>
         <Phone>480-968-6800</Phone>
         <Address>
@@ -126,7 +126,7 @@
             <Zip>85281</Zip>
         </Address>
     </Hotel>
-    <Hotel NearestAirport="Sky Harbor">
+    <Hotel NearstAirport="Sky Harbor">
       <Name>Residence Inn Tempe Downtown/University</Name>
       <Phone>480-967-2300</Phone>
       <Address>

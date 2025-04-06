@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Hotel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-        xsi:schemaLocation="Hotels.xsd">
+        xsi:schemaLocation="https://PuffyKerry.github.io/cse445_project_4/Hotels.xsd">
     
     <!--Sample hotel from Figure 1-->
     <Hotel Rating="4.2">

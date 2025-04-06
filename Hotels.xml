@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Hotels xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-        xsi:noNamespaceSchemaLocation="Hotels.xsd">
+        xsi:schemaLocation="Hotels.xsd">
     
     <!--Sample hotel from Figure 1-->
     <Hotel NearestAirport="Sky Harbor" Rating="4.2">

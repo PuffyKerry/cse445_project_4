@@ -2,7 +2,6 @@
 <Hotels xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
         xsi:schemaLocation="Hotels.xsd">
     
-    <!--Sample hotel from Figure 1-->
     <Hotel NearstAirport="Sky Harbor" Rating="4.2">
         <Name>Westin</Name>
         <Phone>800-937-8461</Phone>
@@ -16,7 +15,6 @@
         </Address>
     </Hotel>
 
-    <!--10 real hotels-->
     <Hotel NearstAirport="O'Hare International Airport" Rating="4.3">
         <Name>Hilton Chicago</Name>
         <Phone>312-922-4400</Phone>

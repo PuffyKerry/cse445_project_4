@@ -32,7 +32,7 @@
                         </xsd:sequence>
 
                         <!-- Required and optional attributes for Hotel -->
-                        <xsd:attribute name="NearestAirport" type="xsd:string" use="required" />
+                        <xsd:attribute name="NearstAirport" type="xsd:string" use="required" />
                         <xsd:attribute name="Rating" type="xsd:decimal" use="optional" />
                     </xsd:complexType>
                 </xsd:element>
